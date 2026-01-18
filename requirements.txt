@@ -2,7 +2,6 @@
 # by the following command:\
 #\
 #    pip-compile --cert=None --client-cert=None --index-url=None --output-file=requirements.txt --pip-args=None requirements.in\
--e .
 # Core packages
 numpy==2.2.2
 pandas==2.2.3
